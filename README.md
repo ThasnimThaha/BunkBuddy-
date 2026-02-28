@@ -55,3 +55,23 @@ python -m http.server
 ## 🎥 Demo Video
 
 [![Watch Demo](demo.png)](20260228091729.mp4)
+## 🏗️ Architecture Diagram
+
+## 🏗️ Architecture Diagram
+
+```mermaid
+flowchart LR
+A[User] --> B[Browser UI HTML CSS]
+B --> C[JavaScript Logic]
+C --> D[timetable.json Data]
+C --> E[Attendance Calculator]
+E --> F[Prediction Engine]
+F --> G[UI Output Display]
+```
+
+---
+
+## 👩‍💻 Team Members
+
+- Akhila 
+- Thasnim
