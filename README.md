@@ -43,4 +43,14 @@ Alternatively, run a local server:
 ```bash
 python -m http.server
 ```
+## 📸 Screenshots
+
+### Home Page
+![Home](screenshots/home.png)
+
+### Attendance Result
+![Result](screenshots/result.png)
+
+### Prediction Page
+![Prediction](screenshots/prediction.png)
 
