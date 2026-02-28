@@ -57,7 +57,7 @@ python -m http.server
 [![Watch Demo](demo.png)](20260228091729.mp4)
 ## 🏗️ Architecture Diagram
 
-## 🏗️ Architecture Diagram
+
 
 ```mermaid
 flowchart LR
