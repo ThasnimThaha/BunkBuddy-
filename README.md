@@ -47,6 +47,8 @@ python -m http.server
 
 ## 📸 Screenshots
 
-(Screenshot 2026-02-28 084852.png)
-(Screenshot 2026-02-28 084917.png)
-(Screenshot 2026-02-28 084956.png)
+![](Screenshot%202026-02-28%20084852.png)
+![](Screenshot%202026-02-28%20084917.png)
+![](Screenshot%202026-02-28%20084956.png)
+![](Screenshot%202026-02-28%20085034.png)
+![](Screenshot%202026-02-28%20085123.png)
