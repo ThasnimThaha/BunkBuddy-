@@ -52,3 +52,6 @@ python -m http.server
 ![](Screenshot%202026-02-28%20084956.png)
 ![](Screenshot%202026-02-28%20085034.png)
 ![](Screenshot%202026-02-28%20085123.png)
+## 🎥 Demo Video
+
+[![Watch Demo](demo.png)](20260228091729.mp4)
